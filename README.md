@@ -35,9 +35,3 @@ To get started with the project, follow these steps:
 5. **Contributing**: If you are a member of our Data Mining class and would like to contribute to this project, feel free to fork the repository, make your changes, and submit a pull request. Make sure to follow our contribution guidelines outlined in the CONTRIBUTING.md file.
 
 6. **Issues and Feedback**: If you encounter any issues or have feedback on the project, please open an issue on the GitHub repository. We appreciate your input and collaboration.
-
-Happy coding!
-
-csharp
-
-You can copy and paste this code block into your README.md file.
