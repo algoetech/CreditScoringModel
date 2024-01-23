@@ -20,7 +20,7 @@ To get started with the project, follow these steps:
 
 1. **Clone the Repository**: Use the following command to clone the repository to your local machine.
    ```bash
-   git clone https://github.com/your-username/credit-scoring-project.git
+   git clone https://github.com/algoetech/CreditScoringModel.git
    ```
 
 2. **Install Dependencies**: Ensure you have all the necessary dependencies installed. You can use the provided requirements file.
